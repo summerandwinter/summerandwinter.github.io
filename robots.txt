@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /category/
+Allow: /tag/
+Allow: /about/
+Allow: /lab/
+
+Disallow: /js/
+Disallow: /css/
+
+Sitemap: http://sanyecao.me/sitemap.xml
+Sitemap: http://sanyecao.me/baidusitemap.xml

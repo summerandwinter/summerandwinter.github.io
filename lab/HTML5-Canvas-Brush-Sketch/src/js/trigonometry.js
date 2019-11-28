@@ -1,0 +1,1 @@
+var Trig={distanceBetween2Points:function(t,n){var a=n.x-t.x,e=n.y-t.y;return Math.sqrt(Math.pow(a,2)+Math.pow(e,2))},angleBetween2Points:function(t,n){var a=n.x-t.x,e=n.y-t.y;return Math.atan2(a,e)}};
